@@ -1,0 +1,9 @@
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseHerencia\ClaseHerencia\bin\Debug\ClaseHerencia.exe.config
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseHerencia\ClaseHerencia\bin\Debug\ClaseHerencia.exe
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseHerencia\ClaseHerencia\bin\Debug\ClaseHerencia.pdb
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseHerencia\ClaseHerencia\obj\Debug\ClaseHerencia.csprojResolveAssemblyReference.cache
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseHerencia\ClaseHerencia\obj\Debug\ClaseHerencia.Properties.Resources.resources
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseHerencia\ClaseHerencia\obj\Debug\ClaseHerencia.csproj.GenerateResource.Cache
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseHerencia\ClaseHerencia\obj\Debug\ClaseHerencia.csproj.CoreCompileInputs.cache
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseHerencia\ClaseHerencia\obj\Debug\ClaseHerencia.exe
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseHerencia\ClaseHerencia\obj\Debug\ClaseHerencia.pdb
